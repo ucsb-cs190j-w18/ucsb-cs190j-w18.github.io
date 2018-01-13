@@ -8,14 +8,28 @@ Basic Facts
 -----------
 
 * **Course Web Site**: <http://ucsb-cs190j.github.io>
-* **Instructors**: Phill Conrad and Diba Mirza 
+* **Instructors**: Phill Conrad, Diba Mirza, Richert Wang
 
-* **Lecture**: R 3:30pm-5:00pm Phelps 1250, ATTENDANCE REQUIRED.
-* **Lab** (3 hours discussion section depending on which course you are assigned to) in Phelps 3525  (co-located with courses as shown below)
+* **Lecture**: R 9:30-10:45am HFH 1132, ATTENDANCE REQUIRED.
+* **Discussion Section**.  5 hours of discussion section, negotiated with your supervising instructor, in service to the course to which you are assigned.   The actual time might not correspond to the one listed on GOLD.   The time will be some combination of service during your courses discussion sections, and/or service during open labs hours.   The open lab hours are shared across the four courses.
 
-  * Tuesday 8:00am - 10:50am  (CMPSC 8)
-  * Tuesday 11:00am- 1:50pm  (CMPSC 8)
-  * Wednesday 3pm-5:50pm (CMPSC 56)
+| Course   | Number<br> of CS190J mentors | Supervising <br> Instructor | Official<br> Discussion Time<br> on GOLD | Actual<br> Course Discussion Section <br> Times |
+|----------|----------------|--------------------|------------------|-------------------------------------------------|
+| CMPSC 8  | 3 | Richert Wang   | Wed 9am - 11:50am  | Wed 9am-12:50pm  | TBD selected from: <br>Mon 1-5pm, Thu noon-1:30pm, Fri 1-5pm |               |
+| CMPSC 16 | 6 | Diba Mirza     | Tues 9am - 11:50am | Tue 9am-12:50pm  | Mon 1-5pm, Fri 1-5pm |
+| CMPSC 24 | 5 | Diba Mirza     | Mon 9am - 11:50am  | Mon 9am-12:50pm  | Thu noon-3pm, Fri 1-5pm |
+| CMPSC 56 | 4 | Phill Conrad   | Thu 4pm - 6:50pm   | Thu 4pm-6:50pm   | TBD selected from: <br>Mon 1-5pm, Thu noon-3pm, Fri 1-5pm |
+
+The three instructors and the 18 students in the course should coordinate their scheduled open labs times so as to ensure that there is coverage across the courses, and that the lab does not become overcrowded.
+
+
+# Final Course Grades 
+
+* 45%: Course Peformance
+* 45%: Three projects (15% each)
+* 10%: Homework assignments (average of plenary, and course specific)
+
+TODO: Expand on these below.
 
 
 About this course
