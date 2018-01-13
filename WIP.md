@@ -78,12 +78,16 @@ CS16 Topics:
 
 You will draw a topic out of a hat, and you will be asked to explain it to a student that says: "I'm having trouble with X".
 
+OR you'll be asked to help with someone that is stuck on some code.
+
 What do you do?    We'll practice this.
 
 Practice it first in plenary session--then in smaller groups.
 
-* Initial observation for feedback in week 4... real setting, real students (office hours, or during open labs)
-* Later observation for course grade, in week 6... real setting, real students (can be repeated up to two times).
+* Initial observation for feedback in week 4/5... real setting, real students (tutor office hours, or during open labs)
+* Later observation for course grade, in week 6/7... real setting, real students (tutor office hours, can be repeated up to two times).
+
+TODO: Schedule on our own faculty calendars... when those visits are going to happen, for each student.
 
 # Collaborative project: create a repository of analogies for explaining frequently encountered concepts in the course.
 
