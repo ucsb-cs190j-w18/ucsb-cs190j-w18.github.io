@@ -65,10 +65,27 @@ The assignment will have some prompt for writing code, and then there will be a 
    * Implemntation was correct, and student test case reported buggy (NOT OK)
    * Implementation was buggy, and student test case reported correct (NOT OK )
    * Implemntation was correct, and student test case reported correct (OK)
-  
-* Prepare a lecture
+   
+# Prepare an explanation of a topic
 
-* Collaborative project: create a repository of analogies for explaining frequently encountered concepts in the course.
+CS16 Topics:
+* Binary/Octal/Hex 
+* Linked Lists
+* Recursion
+* Pointers
+* Stack vs Heap
+* etc.
+
+You will draw a topic out of a hat, and you will be asked to explain it to a student that says: "I'm having trouble with X".
+
+What do you do?    We'll practice this.
+
+Practice it first in plenary session--then in smaller groups.
+
+* Initial observation for feedback in week 4... real setting, real students (office hours, or during open labs)
+* Later observation for course grade, in week 6... real setting, real students (can be repeated up to two times).
+
+# Collaborative project: create a repository of analogies for explaining frequently encountered concepts in the course.
 
 # In class activities
 
