@@ -14,7 +14,7 @@ Basic Facts
 * **Discussion Section**.  5 hours of discussion section, negotiated with your supervising instructor, in service to the course to which you are assigned.   The actual time might not correspond to the one listed on GOLD.   The time will be some combination of service during your courses discussion sections, and/or service during open labs hours.   The open lab hours are shared across the four courses.
 
 | Course   | Number<br> of CS190J mentors | Supervising <br> Instructor | Official<br> Discussion Time<br> on GOLD | Actual<br> Course Discussion Section <br> Times | Open Lab Times |
-|----------|----------------|--------------------|------------------|-------------------------------------------------|
+|----------|----------------|--------------------|------------------|-------------------------------------------------|-|
 | CMPSC 8  | 3 | Richert Wang   | Wed 9am - 11:50am  | Wed 9am-12:50pm  | TBD selected from: <br>Mon 1-5pm, Thu noon-1:30pm, Fri 1-5pm |               |
 | CMPSC 16 | 6 | Diba Mirza     | Tues 9am - 11:50am | Tue 9am-12:50pm  | Mon 1-5pm, Fri 1-5pm |
 | CMPSC 24 | 5 | Diba Mirza     | Mon 9am - 11:50am  | Mon 9am-12:50pm  | Thu noon-3pm, Fri 1-5pm |
