@@ -31,12 +31,16 @@ The three instructors and the 18 students in the course should coordinate their 
 
 ## Tutoring performance
 
-As a tutor, you are a role model to the students in the class. Therefore, your conduct should reflect the values that we would like to instill in our students. With this philosphy in mind, your performance as a tutor will be graded along these lines:
+As a tutor, you are a role model to the students in the class. Therefore, your conduct should reflect the values that we would like to instill in our students. With this philosphy in mind, we expect you to be:
 
-* Responsiveness to the instructor and the students
-* Reliability: This means showing up ON TIME in your lab and section hours, keeping up with your commitments and deadlines
-*
-*
+* Responsive: As a tutor you will be working with the instructor and the students. You are expected to respond to be respond appropriately and in a timely fashion
+* Reliabile: This means showing up ON TIME to your scheduled lab hours, keeping up with your commitments and deadlines
+* Proactive and engaged: Observe the students in your lab sections and offer to assist them proactively. You must appear "available" to students during your hours and not immersed in your devices.
+* Prepared: Read the lab instructions carefully before appearing for your sections, read the lecture slides
+* Helpful: Demonstrate and understanding of what it means to be helpful as a tutor. Say I don't know but seek help from the TA or instructor to make sure that the student received the help they need.
+
+
+Your tutoring performance will be graded along the above dimensions based on observations made by the instructor. You may ask the instructor for feedback around Week 5 during their scheduled office hours or by setting up an appointment with them. This is optional. 
 
 
 About this course
