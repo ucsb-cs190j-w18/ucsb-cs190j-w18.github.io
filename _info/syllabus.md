@@ -25,11 +25,18 @@ The three instructors and the 18 students in the course should coordinate their 
 
 # Final Course Grades 
 
-* 45%: Course Peformance
+* 45%: Tutoring performance in your assigned course
 * 45%: Three projects (15% each)
 * 10%: Homework assignments (average of plenary, and course specific)
 
-TODO: Expand on these below.
+## Tutoring performance
+
+As a tutor, you are a role model to the students in the class. Therefore, your conduct should reflect the values that we would like to instill in our students. With this philosphy in mind, your performance as a tutor will be graded along these lines:
+
+* Responsiveness to the instructor and the students
+* Reliability: This means showing up ON TIME in your lab and section hours, keeping up with your commitments and deadlines
+*
+*
 
 
 About this course
