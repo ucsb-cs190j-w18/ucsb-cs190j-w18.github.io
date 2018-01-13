@@ -50,9 +50,14 @@ Instructional tasks for each course:
 
 * Set up a Piazza for all CS190J and paid tutors
 * Set up Gauchospace.  
-
+* IF there is shared open lab time
+    * Coordinate a schedule of when tutors (and TAs if applicable) are signed up to be available during those lab times ([link to Example](https://docs.google.com/spreadsheets/d/1eUxxgtkC0BFRkKBI5Shb55SoD1e635B-WGpaSrLBOdk/edit?usp=sharing)
+   
 
 # OPTIONAL per course tasks (at discretion of individual instructor)
 
 * Set up Slack for team
+* Include on your course site information about the tutors - pics, bios etc. 
+   * TO DO : Include samples
+
 
