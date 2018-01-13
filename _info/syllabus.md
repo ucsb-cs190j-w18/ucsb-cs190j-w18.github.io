@@ -42,6 +42,8 @@ As a tutor, you are a role model to the students in the class. Therefore, your c
 
 Your tutoring performance will be graded along the above dimensions based on observations made by the instructor. You may ask the instructor for feedback around Week 5 during their scheduled office hours or by setting up an appointment with them. This is optional. 
 
+# Projects
+
 
 About this course
 ---------------------------------
