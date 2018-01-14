@@ -1,5 +1,5 @@
 ---
-title: "Syllabus, CMPSC 190J, Fall 2017"
+title: "Syllabus, CMPSC 190J, Winter 2018"
 layout: handout
 ready: false
 ---
@@ -7,7 +7,7 @@ ready: false
 Basic Facts
 -----------
 
-* **Course Web Site**: <http://ucsb-cs190j.github.io>
+* **Course Web Site**: <http://ucsb-cs190j-w18.github.io>
 * **Instructors**: Phill Conrad, Diba Mirza, Richert Wang
 
 * **Lecture**: R 9:30-10:45am HFH 1132, ATTENDANCE REQUIRED.
@@ -26,8 +26,8 @@ The three instructors and the 18 students in the course should coordinate their 
 # Final Course Grades 
 
 * 45%: Tutoring performance in your assigned course
-* 45%: Three projects (15% each)
-* 10%: Homework assignments (average of plenary, and course specific)
+* 40%: Two projects (20% each)
+* 20%: Homework assignments (average of plenary, and course specific)
 
 ## Tutoring performance
 
@@ -67,13 +67,45 @@ The course has three main components lectures, discussions and homeworks as desc
 
 * Homeworks include reading and writing assignments, as well as the completion of specific tasks that will be specific to the course that students have been assigned to. Assignments include reading scholarly articles and writing summaries/reviews about them, writing reflections on tutoring activities, and providing feedback on student work. Other tasks may be assigned as homework by instructors of the courses that students are mentoring for. For more information, please see the following subsections.
 
+# Homeworks/In-Class Activitites
+
+Each homeworks or in-Class Activities (ICs) will be worth the same number of points (i.e. normalized to 100 points).
+
+They will be of two types:
+
+* Plenary Homeworks/ICs are those that all CS190J mentors will complete, regardless of the course to which they are assigned.
+
+   At present, at least the following are planned:
+   
+   * Writing a bio (with photo) for your courses website.
+   * Summarizing a research paper on CS Education
+   * Presenting a lightning talk on a topic in CS Education
+   * Reading short articles (e.g. from Teaching Tips, or other sources) and writing a short reaction paper.
+
+* Course specific homeworks may or may not be assigned by your supervising instructor.  If they are present, they will
+  be factored into your homework grade.
+
 # Mentoring in the context of CMPSC 8
+
+TODO: Richert review  this.
 
 CMPSC 8 is usually the first CS course that students take at UCSB. The mentors in CMPSC 8 will assist students with different levels of programming experience understand concepts that are foundational to CS and gain study habits and skills that will help them succeed in future CS courses. Mentors are central to creating a supportive learning environment and helping students engage with the material.  
 
 The mentors will assist students during the CS 8 lab sections, while they work on their programming assignments, provide feedback on student code and homework, and review student work on exams. Mentors will also be involved with creating collaborative study guides and assisting with study sessions prior to exams.
 
+# Mentoring in the context of CMPSC 16
+
+TODO: Diba write this.
+
+# Mentoring in the context of CMPSC 24
+
+TODO: Diba write this.
+
+
+
 # Mentoring in the context of CMPSC 56 
+
+TODO: Phill review  this.
 
 As you may recall, when you were enrolled in Phill Conrad’s CMPSC 56 course,
 there were a number of CS undergrads that served as "mentors" for the course, particularly for the legacy code projects.    These students help
