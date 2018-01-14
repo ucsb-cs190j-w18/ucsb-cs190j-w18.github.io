@@ -25,7 +25,7 @@ The three instructors and the 18 students in the course should coordinate their 
 
 # Final Course Grades 
 
-* 45%: Tutoring performance in your assigned course
+* 40%: Tutoring performance in your assigned course
 * 40%: Two projects (20% each)
 * 20%: Homework assignments (average of plenary, and course specific)
 
