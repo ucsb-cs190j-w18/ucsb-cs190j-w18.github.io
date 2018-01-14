@@ -8,15 +8,15 @@ title: CS190J,
 
 |   Week |  Date   |  Topics |
 |--------|-------- | ------- |
-|    1   | 01/18 |  |
-|    2   | 01/25 |    |
-|    3   | 02/01 |  |
-|    4   | 02/08 |  |
-|    5   | 02/15 |    |
-|    6   | 02/22 |   |
-|    7   | 03/01 |      |
-|    8   | 03/08 |      |
-|    9   | 03/15 |      |
+|    1   | 01/18 |  Orientation, Syllabus (Diba presenting 20-30 min) |
+|    2   | 01/25 |  Teaching Tips for CS, part 1 (Diba, 25 min), Assigning Research Topics (Phill, 5 min)  |
+|    3   | 02/01 |  Practicing 1-on-1 explanations (Phill, 30 min) |
+|    4   | 02/08 |  Teaching Tips for CS, part 2 (Diba, 30 min) |
+|    5   | 02/15 |  Research Lightning Talks <br>(CS8 presenting to CS16 in HFH1132, Richert 45 min)<br> CS24 presenting to CS 56 Phill and Diba in HFH1152)  |
+|    6   | 02/22 |  Research Lightning Talks <br>(CS16 presenting to CS8 in HFH1132, Richert and Diba 45 min)<br> CS56 presenting to CS24 Phill HFH1152)  |
+|    7   | 03/01 |  TBD    |
+|    8   | 03/08 |  TBD    |
+|    9   | 03/15 |  TBD    |
 
 
 # Outside the class assignments
