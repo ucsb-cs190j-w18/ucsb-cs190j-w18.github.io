@@ -120,6 +120,7 @@ As a CS16/24 mentor, your duties include:
 5. Writing biweekly reports to communicate overall progress to your mentees. You are highly encouraged maintain logs on each student which will help you create these reports. 
 6. Reflect on your tutoring style and adjusting it to better suite your audience (your mentees).
 7. Assist the TAs with study sessions prior to exams
+8. Service roles---helping with improving curriculum, proctoring exams, and other occasionally administrative tasks, etc. where called upon
 
 # Mentoring in the context of CMPSC 56 
 
