@@ -37,3 +37,5 @@ For more information please read the syllabus!
 # HW 00
 Bios and photos to share with students. For more information see [hw0 writeup](https://ucsb-cs190j-w18.github.io/hwk/h00/)
 
+
+Questions about any outstanding issues?
