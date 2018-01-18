@@ -44,7 +44,7 @@ Course grades will be calculated as follows.
 * 40%: Two projects (20% each)
 * 20%: Homework assignments (average of plenary, and course specific)
 
-## Tutoring performance
+## Tutoring performance specific to your course
 
 As a tutor, you are a role model to the students in the class. Therefore, your conduct should reflect the values that we would like to instill in our students. With this philosphy in mind, we expect you to be:
 
@@ -53,14 +53,14 @@ As a tutor, you are a role model to the students in the class. Therefore, your c
 * Proactive and engaged: Observe the students in your lab sections and offer to assist them proactively. You must appear "available" to students during your hours and not immersed in your devices.
 * Prepared: Read the lab instructions carefully before appearing for your sections, read the lecture slides
 * Helpful: Demonstrate and understanding of what it means to be helpful as a tutor. Say I don't know but seek help from the TA or instructor to make sure that the student received the help they need.
-
+* Ethical: You must follow good ethics in your ineteraction with students and are required by university rules to report any cases of harrassment or inappropriate behavior to you instructor immediately
 
 Your tutoring performance will be graded along the above dimensions based on observations made by the instructor. You may ask the instructor for feedback around Week 5 during their scheduled office hours or by setting up an appointment with them. This is optional. 
 
 For purposes of calculating a final course grade, a numeric value out of 100 will be assigned by your supervising instructor for this portion of your course performance.
 
 
-# Course components:
+# 190J Course components:
 
 The course has three main components lectures, discussions and homeworks as described below.
 
@@ -101,24 +101,24 @@ They will be of two types:
 
 # Mentoring in the context of CMPSC 8
 
-TODO: Richert review  this.
-
 CMPSC 8 is usually the first CS course that students take at UCSB. The mentors in CMPSC 8 will assist students with different levels of programming experience understand concepts that are foundational to CS and gain study habits and skills that will help them succeed in future CS courses. Mentors are central to creating a supportive learning environment and helping students engage with the material.  
 
 The mentors will assist students during the CS 8 lab sections, while they work on their programming assignments, provide feedback on student code and homework, and review student work on exams. Mentors will also be involved with creating collaborative study guides and assisting with study sessions prior to exams.
 
-# Mentoring in the context of CMPSC 16
+# Mentoring in the context of CMPSC 16/24
 
 In CS 16 students are expected to solidify their foundations in programming by revisiting key programming constructs (functions, control structures - loops and conditionals etc) in the context of C++). By working in a compiled language, students also learn about basic computer organization, and the hardware software interface. By the end of the course, students are expected to be comfortable working in a unix environment and developing C-style programs in C++ (procedural rather than OO). Key new concepts include pointers, references and memory management in C++. Through practice, students should become more comfortable with debugging code independently, and using techniques to develop accurate programs. Finally, students will learn about git and intergrate it into their workflow.
 
-As a CS16 mentor, you will spend most of your time interacting one-on-one with approximately 10 students in your mentor group in sections and open lab hours. Your role is to identify gaps in student understanding and help develop key faculties and techniques needed for programming. In your interactions you will strive to be supportive and non-judgemental. You will also track the progress of your students by writing biweekly reports and maintaining logs. These records will help you reflect and adjust your tutoring style to better suite your mentees. 
+In CS 24, students learn about OOP, data structures (linked-lists, trees, stacks, queues, heaps) and the mathematical framework (Big O) to analyze the complexity of their algorithms. Other skills students need to develop are working with github (this may be completely new to some), debuggers (gdb) and Makefiles.
 
+As a CS16/24 mentor, your duties include:
 
-# Mentoring in the context of CMPSC 24
-
-TODO: Diba write this.
-
-
+1. Preparing (very thoroughly) for each lab/assignement before your lab section
+2. Interacting one-on-one with students in section and open lab hours to assist with programming. Your role is to identify gaps in student understanding and help develop key faculties and techniques needed for programming. In your interactions you should strive to be supportive and non-judgemental. 
+3. Tracking the progress of approximately 10 students in your mentor group and setting up a time to meet with them on a regular basis
+4. Providing feedback on student code (for your mentees only)
+5. Writing biweekly reports to communicate overall progress to your mentees. You are highly encouraged maintain logs on each student which will help you create these reports. 
+6. Reflect on your tutoring style and adjusting it to better suite your audience (your mentees).
 
 # Mentoring in the context of CMPSC 56 
 
