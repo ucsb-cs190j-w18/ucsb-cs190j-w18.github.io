@@ -31,6 +31,6 @@ date: 2018-01-18 9:30:00.00-8:00
 * An observation of one-on-one tutoring by your supervising instructor: Schedule these observations with your course specific instructor in Week 4
 * A final paper summarizing your learning in the course: Due on the last day of instruction
 
-# HW 01
-Bios and photos to share with students. For more information see [hw01 writeup](/hwk/h00/)
+# HW 00
+Bios and photos to share with students. For more information see [hw0 writeup](https://ucsb-cs190j-w18.github.io/hwk/h00/)
 
