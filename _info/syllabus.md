@@ -122,13 +122,19 @@ TODO: Diba write this.
 
 # Mentoring in the context of CMPSC 56 
 
-TODO: Phill review  this.
+Each CS56 mentor will be typically assigned to 4 pairs of students (8 students) that will be their "team".  They will also be associated with a team of fellow mentors under the supervision of a lead.  The lead will be either a TA, or an experience mentor assisted by a Reader.  (Only TAs and Readers have final grading responsibilties.)
 
-As you may recall, when you were enrolled in Phill Conrad’s CMPSC 56 course,
-there were a number of CS undergrads that served as "mentors" for the course, particularly for the legacy code projects.    These students help
-with curating the legacy code projects, reviewing student code, approving "issues" (bug fixes, feature proposals), and in many other aspects of the course.  
+The chief duties of CS56 mentors are:
 
-It is a great opportunity to build on your understanding of Java, Design Patterns, git/github, software testing, and other materials from CS56, as well as developing communication and leadership skills in a software development context.
+1. Curation of six legacy project repos.  
+    * This involves getting the repos ready for students to work on them.  Details [here](https://ucsb-cs56-pconrad-mentors.github.io/topics/curation_quick_checklist/) and [here](https://ucsb-cs56-pconrad-mentors.github.io/topics/curation_start_of_course/)
+    * Anticipated schedule: two by Thursday of week 2, two more by Monday of week 3, two more by Monday of week 4.
+2.  Going through labs before class (when available) to help uncover possible problem areas.
+3.  Helping students with labs during discussion sections and open labs hours
+4.  Providing code review of certain specific labs, legacy code project issues
+5.  General guidance of the legacy code project process, meaning helping to guide the design of the software towards good practices, and helping students manage the issues, pull requests, etc.
+6.  Serving as role models and sources of information and inspiration for the students in the course
+7.  Service roles---helping with improving curriculum, proctoring exams, and other occasionally administrative tasks, etc. where called upon.
 
 More information on mentor responsibilities for CS56 can be found at these links:
 
