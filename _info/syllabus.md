@@ -111,6 +111,8 @@ The mentors will assist students during the CS 8 lab sections, while they work o
 
 In CS 16 students are expected to solidify their foundations in programming by revisiting key programming constructs (functions, control structures - loops and conditionals etc) in the context of C++). By working in a compiled language, students also learn about basic computer organization, and the hardware software interface. By the end of the course, students are expected to be comfortable working in a unix environment and developing C-style programs in C++ (procedural rather than OO). Key new concepts include pointers, references and memory management in C++. Through practice, students should become more comfortable with debugging code independently, and using techniques to develop accurate programs. Finally, students will learn about git and intergrate it into their workflow.
 
+As a CS16 mentor, you will spend most of your time interacting one-on-one with approximately 10 students in your mentor group in sections and open lab hours. Your role is to identify gaps in student understanding and help develop key faculties and techniques needed for programming. In your interactions you will strive to be supportive and non-judgemental. You will also track the progress of your students by writing biweekly reports and maintaining logs. These records will help you reflect and adjust your tutoring style to better suite your mentees. 
+
 
 # Mentoring in the context of CMPSC 24
 
