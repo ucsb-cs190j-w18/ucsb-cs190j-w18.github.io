@@ -25,11 +25,14 @@ date: 2018-01-18 9:30:00.00-8:00
 * Proactive: Observe the students in your lab sections and offer to assist them. You must appear “available” to students during your hours and not immersed in your devices.
 * Prepared: Read the lab instructions carefully before appearing for your sections, read the lecture slides
 * Helpful: Be respectful and try your best. Say I don’t know when you really don't but seek help from the TA or instructor to make sure that the student received the help they need. 
+* Ethical: You must follow good ethics in your ineteraction with students and are required by university rules to report any cases of harrassment or inappropriate behavior to you instructor immediately
 
 
 # Projects
 * An observation of one-on-one tutoring by your supervising instructor: Schedule these observations with your course specific instructor in Week 4
 * A final paper summarizing your learning in the course: Due on the last day of instruction
+
+For more information please read the syllabus!
 
 # HW 00
 Bios and photos to share with students. For more information see [hw0 writeup](https://ucsb-cs190j-w18.github.io/hwk/h00/)
