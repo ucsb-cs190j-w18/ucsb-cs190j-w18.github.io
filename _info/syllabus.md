@@ -103,7 +103,7 @@ They will be of two types:
 
 CMPSC 8 is usually the first CS course that students take at UCSB. The mentors in CMPSC 8 will assist students with different levels of programming experience understand concepts that are foundational to CS and gain study habits and skills that will help them succeed in future CS courses. Mentors are central to creating a supportive learning environment and helping students engage with the material.  
 
-The mentors will assist students during the CS 8 lab sections, while they work on their programming assignments, provide feedback on student code and homework, and review student work on exams. Mentors will also be involved with creating collaborative study guides and assisting with study sessions prior to exams.
+The mentors will assist students during the CS 8 lab sections, while they work on their programming assignments, provide feedback on student code and homework, hold office hours to assist students and review student work on exams. Mentors will also be involved with creating collaborative study guides and assisting with study sessions prior to exams.
 
 # Mentoring in the context of CMPSC 16/24
 
@@ -119,6 +119,7 @@ As a CS16/24 mentor, your duties include:
 4. Providing feedback on student code (for your mentees only)
 5. Writing biweekly reports to communicate overall progress to your mentees. You are highly encouraged maintain logs on each student which will help you create these reports. 
 6. Reflect on your tutoring style and adjusting it to better suite your audience (your mentees).
+7. Assist the TAs with study sessions prior to exams
 
 # Mentoring in the context of CMPSC 56 
 
