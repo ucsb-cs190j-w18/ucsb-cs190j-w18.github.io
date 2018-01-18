@@ -15,10 +15,10 @@ Basic Facts
 
 | Course   | Number<br> of CS190J mentors | Supervising <br> Instructor | Official<br> Discussion Time<br> on GOLD | Actual<br> Course Discussion Section <br> Times | Open Lab Times |
 |----------|----------------|--------------------|------------------|-------------------------------------------------|-|
-| CMPSC 8  | 3 | Richert Wang   | Wed 9am - 11:50am  | Wed 9am-12:50pm  | TBD selected from: <br>Mon 1-5pm, Thu noon-1:30pm, Fri 1-5pm |               |
-| CMPSC 16 | 6 | Diba Mirza     | Tues 9am - 11:50am | Tue 9am-12:50pm  | Mon 1-5pm, Fri 1-5pm |
-| CMPSC 24 | 5 | Diba Mirza     | Mon 9am - 11:50am  | Mon 9am-12:50pm  | Thu noon-3pm, Fri 1-5pm |
-| CMPSC 56 | 4 | Phill Conrad   | Thu 4pm - 6:50pm   | Thu 4pm-6:50pm   | TBD selected from: <br>Mon 1-5pm, Thu noon-3pm, Fri 1-5pm |
+| CMPSC 8  | 3 | Richert Wang   | Wed 9am - 11:50am  | Wed 9am-12:50pm  | Mon 1-8pm, Thu noon-1:30pm, Fri 1-5pm |               |
+| CMPSC 16 | 6 | Diba Mirza     | Tues 9am - 11:50am | Tue 9am-12:50pm  | Mon 1-8pm, Fri 1-5pm |
+| CMPSC 24 | 5 | Diba Mirza     | Mon 9am - 11:50am  | Mon 9am-12:50pm  | Mon 5-8, Thu noon-3pm, Fri 1-5pm |
+| CMPSC 56 | 4 | Phill Conrad   | Thu 4pm - 6:50pm   | Thu 4pm-6:50pm   | Mon 1-8pm, Thu noon-3pm, Fri 1-5pm |
 
 The three instructors and the 18 students in the course should coordinate their scheduled open labs times so as to ensure that there is coverage across the courses, and that the lab does not become overcrowded.
 
