@@ -2,7 +2,7 @@
 num: "Lecture 5"
 desc: "Research Lightning Talks"
 ready: true
-date: 2017-10-26 15:30:00.00-7:00
+date: 2018-02-15 9:30:00.00-8:00
 ---
 
 * CS8 presenting to CS16 in HFH1132, Richert 45 min)
