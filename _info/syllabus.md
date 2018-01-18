@@ -59,14 +59,12 @@ Your tutoring performance will be graded along the above dimensions based on obs
 
 For purposes of calculating a final course grade, a numeric value out of 100 will be assigned by your supervising instructor for this portion of your course performance.
 
-# Projects
-
 
 # Course components:
 
 The course has three main components lectures, discussions and homeworks as described below.
 
-* <b>Lectures</b> will cover best practices and current research in CS pedagogy with the goal of providing students with the  knowledge and skill set needed to be an effective mentor and teacher of Computer Science. Students will learn about student development theories, different pedagogical techniques, methods for assessing learning, and the ethics of being a mentor. These topics will be presented in the context of four specific undergraduate courses:  CS8, CS16, CS24 and CS 56.  
+* <b>Lectures</b> will cover best practices and current research in CS pedagogy with the goal of providing students with the  knowledge and skill set needed to be an effective mentor and teacher of Computer Science. Students will learn about how to assist other students in lab sections, learn about different pedagogical techniques and the ethics of being a mentor. These topics will be presented in the context of four specific undergraduate courses:  CS8, CS16, CS24 and CS 56.  
 
 
 * In <b>discussion sections</b> and <b>open lab hours</b> students will apply the content covered in lectures to mentor students in the context of either CS 8 or CS56.  At the outset of the course, each student in CS190J will be assigned to one of these two courses where they will gain hands-on experience as “course mentors”. Students must attend one discussion section weekly that is co-located with the discussion section(s) of the course that they have been assigned to (either CS8 or CS56).  See the following sections on “Mentoring in the context of CS8/56” for more information.
@@ -111,7 +109,8 @@ The mentors will assist students during the CS 8 lab sections, while they work o
 
 # Mentoring in the context of CMPSC 16
 
-TODO: Diba write this.
+In CS 16 students are expected to solidify their foundations in programming by revisiting key programming constructs (functions, control structures - loops and conditionals etc) in the context of C++). By working in a compiled language, students also learn about basic computer organization, and the hardware software interface. By the end of the course, students are expected to be comfortable working in a unix environment and developing C-style programs in C++ (procedural rather than OO). Key new concepts include pointers, references and memory management in C++. Through practice, students should become more comfortable with debugging code independently, and using techniques to develop accurate programs. Finally, students will learn about git and intergrate it into their workflow.
+
 
 # Mentoring in the context of CMPSC 24
 
