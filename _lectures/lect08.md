@@ -1,9 +1,8 @@
 ---
 num: "Lecture 8"
-desc: "Reflections on tutoring"
+desc: "Jigsaw (tentative) (Diba)"
 ready: true
-date: 2017-11-16 15:30:00.00-7:00
+date: 2018-03-08 9:30:00.00-8:00
 ---
 
-Use class time to get started on your final report. For more instructions see hw03
 
