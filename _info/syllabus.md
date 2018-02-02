@@ -122,6 +122,9 @@ As a CS16/24 mentor, your duties include:
 7. Assist the TAs with study sessions prior to exams
 8. Service roles---helping with improving curriculum, proctoring exams, and other occasionally administrative tasks, etc. where called upon
 
+
+Read these instructions on creating feedback repos for your mentees: [https://github.com/ucsb-cs16-24-mirza-mentors/weekly-guidelines/blob/master/create_feedback_repo.md](https://github.com/ucsb-cs16-24-mirza-mentors/weekly-guidelines/blob/master/create_feedback_repo.md)
+
 # Mentoring in the context of CMPSC 56 
 
 Each CS56 mentor will be typically assigned to 4 pairs of students (8 students) that will be their "team".  They will also be associated with a team of fellow mentors under the supervision of a lead.  The lead will be either a TA, or an experience mentor assisted by a Reader.  (Only TAs and Readers have final grading responsibilties.)
