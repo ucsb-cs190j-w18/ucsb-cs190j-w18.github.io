@@ -123,7 +123,9 @@ As a CS16/24 mentor, your duties include:
 8. Service roles---helping with improving curriculum, proctoring exams, and other occasionally administrative tasks, etc. where called upon
 
 
-Read these instructions on creating feedback repos for your mentees: [https://github.com/ucsb-cs16-24-mirza-mentors/weekly-guidelines/blob/master/create_feedback_repo.md](https://github.com/ucsb-cs16-24-mirza-mentors/weekly-guidelines/blob/master/create_feedback_repo.md)
+* Instructions on creating feedback repos for your mentees: [https://github.com/ucsb-cs16-24-mirza-mentors/weekly-guidelines/blob/master/create_feedback_repo.md](https://github.com/ucsb-cs16-24-mirza-mentors/weekly-guidelines/blob/master/create_feedback_repo.md)
+* [Week 4 feedback and mid quarter report for CS16](https://github.com/ucsb-cs16-24-mirza-mentors/weekly-guidelines/blob/master/CS16-weekly-guideline.md)
+* [Week 4 feedback and mid quarter report for CS24](https://github.com/ucsb-cs16-24-mirza-mentors/weekly-guidelines/blob/master/CS24-weekly-guideline.md)
 
 # Mentoring in the context of CMPSC 56 
 
