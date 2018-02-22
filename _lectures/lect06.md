@@ -11,7 +11,7 @@ date: 2018-02-22 9:30:00.00-8:00
 * Bring your laptops to class
 * Read this programming assignment: [https://ucsb-cs16-w18.github.io/lab/lab06/](https://ucsb-cs16-w18.github.io/lab/lab06/)
 * Clone the starter code for the assignment from this git repo: [https://github.com/ucsb-cs16-w18/cs16-w18-starter-code](https://github.com/ucsb-cs16-w18/cs16-w18-starter-code)
-
+* Link to [collaborative notes](https://docs.google.com/document/d/105r76luP6qwW_AKhCZPeVL7nQjCd2Ctoe4-nAytR-mk/edit?usp=sharing)
 
 ## Tips for assisting students with programming assignments
 
