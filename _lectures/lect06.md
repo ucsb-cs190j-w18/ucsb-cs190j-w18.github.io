@@ -15,7 +15,7 @@ date: 2018-02-22 9:30:00.00-8:00
 
 ## Tips for assisting students with programming assignments
 
-* During class we will go over the tips in [this handout](lect07/tips-for-tutors-poster.pdf)
+* During class we will go over the tips in [this handout](http://csteachingtips.org/tips-for-tutors)
 
 * We will practice the tips in the handout by applying them to one of the lab assignments in CS16 : [https://ucsb-cs16-w18.github.io/lab/lab06/](https://ucsb-cs16-w18.github.io/lab/lab06/). 
 
