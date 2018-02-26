@@ -22,4 +22,5 @@ For CS190J students only. (Optional for others)
 
 # Diba: Some basic teaching tips
 
-* Always a good review!
+* [Link to slides](https://docs.google.com/presentation/d/1phS_35lrzxeVeRiRgs37cc4FrbZiBDO28TP_F3f7uUE/edit?usp=sharing)
+* [Link to original slides and other excellent material from CS Teaching Tips](http://csteachingtips.org/)
