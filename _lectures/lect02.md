@@ -12,9 +12,9 @@ date: 2018-01-25 9:30:00.00-8:00
 
 # A Game
 
-Instructions: https://drive.google.com/file/d/1Kz84JGoEn64xVlOc6p4soxrYPZFKvLOY/view
+Instructions: <https://drive.google.com/file/d/1Kz84JGoEn64xVlOc6p4soxrYPZFKvLOY/view>
 
-Cards: https://drive.google.com/file/d/1leAMIrS1TM0Ir6SfQ9rJHowDaNUy0iuC/view
+Cards: <https://drive.google.com/file/d/1leAMIrS1TM0Ir6SfQ9rJHowDaNUy0iuC/view>
 
 Paper: [Lewis, Ashcraft and McMullen, SIGCSE 2018](https://doi.org/10.1145/3159450.3159634)
 
