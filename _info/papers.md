@@ -51,4 +51,4 @@ REFERENCES
 
 [24] Craig E. Wills, David Finkel, Michael A. Gennert, and Ma hew O. Ward. 1994. Peer Learning in an Introductory Computer Science Course. In Proceedings of the Twenty- h SIGCSE Symposium on Computer Science Education (SIGCSE Undergraduate Tutors for Introductory Courses SIGCSE’18, March 2018, Baltimore MD, USA ’94). ACM, New York, NY, USA, 309–313. DOI: http://dx.doi.org/10.1145/191029.191157
 
-[25] Adrienne Decker, Phil Ventura, and Christopher Egert. 2006. Through the looking glass: reflections on using undergraduate teaching assistants in CS1. In Proceedings of the 37th SIGCSE technical symposium on Computer science education (SIGCSE '06). ACM, New York, NY, USA, 46-50. DOI=http://dx.doi.org/10.1145/1121341.1121358
+
